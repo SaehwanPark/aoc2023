@@ -1,8 +1,8 @@
-![alt text](image.png)
+![my account's aoc2023 mainpage screenshot](image.png)
 
 # Advent of Code 2023 Solutions
 
-My Rust solutions for [Advent of Code 2023](https://adventofcode.com/2023), featuring clean implementations and efficient algorithms for all 25 days.
+Rust solutions for [Advent of Code 2023](https://adventofcode.com/2023), featuring my own approaches and algorithms for all 25 days.
 
 ## 🚀 Quick Start
 
@@ -37,7 +37,7 @@ cargo run --release --example day25
 
 ## 🎯 Solutions Overview
 
-Each day's solution is implemented as a standalone example in the `examples/` directory. The solutions emphasize:
+Each day's solution is implemented as a standalone example in the `examples/` directory. I attempted to achieve:
 
 - **Readability**: Clear, well-documented code
 - **Performance**: Efficient algorithms and data structures
@@ -45,7 +45,7 @@ Each day's solution is implemented as a standalone example in the `examples/` di
 
 ### Notable Implementations
 
-- **Day 25**: Implements Karger's randomized algorithm for the minimum cut problem. See [`docs/day25_strategy.md`](docs/day25_strategy.md) for detailed explanation of the approach.
+- **Day 25**: Implements Karger's randomized algorithm so solve the minimum cut problem performantly. See [`docs/day25_strategy.md`](docs/day25_strategy.md) for detailed explanation of the approach.
 
 ## 📊 Running Solutions
 
@@ -77,7 +77,7 @@ Each solution includes validation against sample inputs to ensure correctness be
 ## 📈 Performance Notes
 
 Most solutions run in milliseconds, with a few exceptions:
-- Later days may require `--release` flag for optimal performance
+- Later days (e.g., Day 23) may require `--release` flag for optimal performance
 - Day 25's randomized algorithm may need multiple runs for consistency
 
 ## 🔗 Resources
