@@ -8,7 +8,7 @@ Rust solutions for [Advent of Code 2023](https://adventofcode.com/2023), featuri
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone <repo-url>
 cd aoc2023
 
 # Run a specific day's solution
