@@ -45,7 +45,7 @@ Each day's solution is implemented as a standalone example in the `examples/` di
 
 ### Notable Implementations
 
-- **Day 25**: Implements Karger's randomized algorithm so solve the minimum cut problem performantly. See [`docs/day25_strategy.md`](docs/day25_strategy.md) for detailed explanation of the approach.
+- **Day 25**: Implements Karger's randomized algorithm to solve the minimum cut problem performantly. See [`docs/day25_strategy.md`](docs/day25_strategy.md) for detailed explanation of the approach.
 
 ## 📊 Running Solutions
 
