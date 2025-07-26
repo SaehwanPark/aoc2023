@@ -1,3 +1,8 @@
+---
+title: "Explaining Day 25 Strategy"
+author: "Sae-Hwan Park"
+---
+
 # AOC 2023 Day 25: Snowverload
 
 ## Problem
